@@ -6,7 +6,7 @@
   
 </div>
 
-- 🔭 I'm a MSc student/candidate at Catholic University of Korea, Computer Vision and Machine Intelligence LAB(CVMI).
+- 🔭 I'm a MSc student at Catholic University of Korea, Computer Vision and Machine Intelligence LAB(CVMI).
 - 🌱 My current interests lie in the field of computer vision and machine learning.
 <!--
 - 👯 I’m looking to collaborate on ...
