@@ -1,10 +1,8 @@
 # Welcome Lee Je Young's Github 👋
 
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIgn0reLee&count_bg=%2379C83D&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 [![Git Status](https://github-readme-stats.vercel.app/api?username=Ign0reLee)](https://github.com/Ign0reLee)
+
+&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIgn0reLee&count_bg=%2379C83D&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🔭 I'm a MSc student at Catholic University of Korea, Computer Vision and Machine Intelligence LAB(CVMI).
 - 🌱 My current interests lie in the field of computer vision and machine learning.
