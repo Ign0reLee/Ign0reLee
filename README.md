@@ -6,6 +6,8 @@
   
 </div>
 
+[![Git Status](https://github-readme-stats.vercel.app/api?username=Ign0reLee)](https://github.com/Ign0reLee)
+
 - 🔭 I'm a MSc student at Catholic University of Korea, Computer Vision and Machine Intelligence LAB(CVMI).
 - 🌱 My current interests lie in the field of computer vision and machine learning.
 <!--
