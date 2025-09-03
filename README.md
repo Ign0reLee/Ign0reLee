@@ -16,7 +16,7 @@
 - 😄 Pronouns: ...
 -->
 - 📫 How to reach me: [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jeyoung.lee.716)](https://www.facebook.com/jeyoung.lee.716),  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A0%9C%EC%98%81-%EC%9D%B4-2857a517b/)](https://www.linkedin.com/in/%EC%A0%9C%EC%98%81-%EC%9D%B4-2857a517b/),   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwpdud@gmail.com)](mailto:dlwpdud@gmail.com)
-- ⚡ Fun fact: I have at least 4 years left to graduate. :(
+- ⚡ Fun fact: Finally Graduated!!
 - Lab Page : [CVMI](http://cvmi.catholic.ac.kr/), Notion : [Lee Je Young's Notion](https://valiant-fly-601.notion.site/Lee-Je-Young-s-Notion-bd6840d12d0d47fd8320c94be1134580)
 - Wikidocs : [NVIDIA RAPIDS로 배우는 데이터 사이언스 가속화 기초](https://wikidocs.net/book/13459)
 
